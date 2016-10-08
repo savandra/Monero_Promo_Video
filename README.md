@@ -14,7 +14,7 @@ The custom music by Savandra is in monero_promo_music.wav
 
 # Donations
 
-Savandra has put countless hours into this project, from designing the Illustrator files, to writing original music. The Forum Funding System is currently down, but if you want to show him a token of your appreciation, his address is:
+Savandra has put countless hours into this project, from designing the Illustrator files, to writing original music. If you want to show him a token of your appreciation, his address is:
 
 XMR: 424pC9taKr8We3u415daSvYawYGYvswEV83CCW4vq54Y3jWZCk4JxPsgubMDejXqt4g1bpFaMp5UW8tpdqnoqSef1n1dT32
 
